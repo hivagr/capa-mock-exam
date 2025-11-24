@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <p align="center" width="100%">
-    <img width="35%" src="./app/public/your-logo-here.jpeg">
+    <img width="35%" src="./app/public/capa-logo.png">
 </p>
 
 This repository provides a single-page web app for practicing Certified Argo Project Associate (CAPA) exam questions. The app is built with Node.js and serves a quiz interface with multiple-choice questions.
@@ -74,3 +74,5 @@ Pull requests and suggestions are welcome! Feel free to submit new questions, im
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+Some questions in this repository are adapted from [Certified Argo Project Associate CAPA](https://gitlab.com/cncf-exams/certified-argo-project-associate-capa)
